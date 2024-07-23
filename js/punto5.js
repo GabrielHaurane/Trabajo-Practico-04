@@ -102,7 +102,7 @@ class Persona {
   }
 }
 
-const persona1 = new Persona(`Gabriel`, 20, `H`, 63, 190, 1925);
+const persona1 = new Persona(`Gabriel`, 20, `H`, 63, 190, 2004);
 
 persona1.mayorEdad();
 persona1.generarDni();
